@@ -46,15 +46,15 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - Focus-attention-enhanced Crossmodal Transformer with Metric Learning for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/kim23c_interspeech.html)
 - Speaker-aware Cross-modal Fusion Architecture for Conversational Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhao23e_interspeech.html)
 - Emotion Prompting for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhou23f_interspeech.html)
-- EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/sun23d_interspeech.html) *
+- EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/sun23d_interspeech.html) 
 - Leveraging Semantic Information for Efficient Self-Supervised Emotion Recognition with Audio-Textual Distilled Models [paper](https://www.isca-speech.org/archive/interspeech_2023/deoliveira23_interspeech.html)
 - Leveraging Label Information for Multimodal Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/wang23ma_interspeech.html)
 - Improving Joint Speech and Emotion Recognition Using Global Style Tokens [paper](https://www.isca-speech.org/archive/interspeech_2023/kyung23_interspeech.html)
-- Dual Memory Fusion for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/prisayad23_interspeech.html) *
+- Dual Memory Fusion for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/prisayad23_interspeech.html) 
 
 ##### Speech
 
-- Multi-Scale Temporal Transformer For Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/li23m_interspeech.html) *
+- Multi-Scale Temporal Transformer For Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/li23m_interspeech.html) 
 - Speech Emotion Recognition by Estimating Emotional Label Sequences with Phoneme Class Attribute [paper](https://www.isca-speech.org/archive/interspeech_2023/nagase23_interspeech.html)
 - Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html)
 - Speech Emotion Recognition using Decomposed Speech via Multi-task Learning [paper](https://www.isca-speech.org/archive/interspeech_2023/hsu23_interspeech.html)
@@ -62,7 +62,7 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 ##### Others
 
 - Cross-Lingual Cross-Age Adaptation for Low-Resource Elderly Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/cahyawijaya23_interspeech.html)
-- MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion [paper](https://www.isca-speech.org/archive/interspeech_2023/wu23c_interspeech.html)  [code](https://github.com/crowpeter/MetricAug) *
+- MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion [paper](https://www.isca-speech.org/archive/interspeech_2023/wu23c_interspeech.html)  [code](https://github.com/crowpeter/MetricAug) 
 - Integrating Emotion Recognition with Speech Recognition and Speaker Diarisation for Conversations [paper](https://www.isca-speech.org/archive/interspeech_2023/wu23_interspeech.html)
 - Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining [paper](https://www.isca-speech.org/archive/interspeech_2023/gao23d_interspeech.html)
 - Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/lee23g_interspeech.html)
