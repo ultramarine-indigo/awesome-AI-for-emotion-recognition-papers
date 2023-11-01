@@ -42,7 +42,7 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - Focus-attention-enhanced Crossmodal Transformer with Metric Learning for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/kim23c_interspeech.html)
 - Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech [paper](https://www.isca-speech.org/archive/interspeech_2023/wang23ka_interspeech.html)
 - MMER: Multimodal Multi-task Learning for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/ghosh23b_interspeech.html)
-- A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhang23g_interspeech.html) [code](https://github.com/zxiaohen/ Speech-emotion-recognition-MCFN)
+- A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhang23g_interspeech.html) [code](https://github.com/zxiaohen/Speech-emotion-recognition-MCFN)
 - Focus-attention-enhanced Crossmodal Transformer with Metric Learning for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/kim23c_interspeech.html)
 - Speaker-aware Cross-modal Fusion Architecture for Conversational Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhao23e_interspeech.html)
 - Emotion Prompting for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhou23f_interspeech.html)
