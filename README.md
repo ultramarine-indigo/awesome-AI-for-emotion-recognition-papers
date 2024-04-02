@@ -40,11 +40,11 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 #### EMNLP2023
 
-- Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis [paper](https://arxiv.org/abs/2310.05804)
+- Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis [paper](https://arxiv.org/abs/2310.05804) [code](https://github.com/Haoyu-ha/ALMT)
 
 #### NeurIPS 2023 
 
-- Incomplete Multimodality-Diffused Emotion Recognition [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/372cb7805eaccb2b7eed641271a30eec-Abstract-Conference.html)  [code](
+- Incomplete Multimodality-Diffused Emotion Recognition [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/372cb7805eaccb2b7eed641271a30eec-Abstract-Conference.html)   [code](https://github.com/mdswyz/IMDer)
 
 #### interspeech 2023
 
