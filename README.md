@@ -25,9 +25,26 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 #### Conversation-Text
 
-- 
-
 ### 2023 papers
+
+#### AAAI 2023
+
+##### Conversation
+
+- SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26541)
+- BERT-ERC: Fine-Tuning BERT Is Enough for Emotion Recognition in Conversation [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26582)
+
+##### Other
+
+- Feature Normalization and Cartography-Based Demonstrations for Prompt-Based Fine-Tuning on Emotion-Related Tasks [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26514)
+
+#### EMNLP2023
+
+- Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis [paper](https://arxiv.org/abs/2310.05804)
+
+#### NeurIPS 2023 
+
+- Incomplete Multimodality-Diffused Emotion Recognition [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/372cb7805eaccb2b7eed641271a30eec-Abstract-Conference.html)  [code](
 
 #### interspeech 2023
 
@@ -145,16 +162,6 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 - Mimicking the Thinking Process for Emotion Recognition in Conversation with Prompts and Paraphrasing [paper](https://arxiv.org/abs/2306.06601)
 
-#### AAAI 2023
-
-##### Conversation
-
-- SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26541)
-- BERT-ERC: Fine-Tuning BERT Is Enough for Emotion Recognition in Conversation [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26582)
-
-##### Other
-
-- Feature Normalization and Cartography-Based Demonstrations for Prompt-Based Fine-Tuning on Emotion-Related Tasks [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26514)
 
 #### ACL 2023
 
@@ -175,9 +182,6 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification [paper](https://arxiv.org/abs/2306.14822) [code](https://github.com/dinobby/HypEmo)
 - Estimating the Uncertainty in Emotion Attributes using Deep Evidential Regression [paper](https://arxiv.org/abs/2306.06760)
 
-#### NeurIPS 2023 
-
-- Incomplete Multimodality-Diffused Emotion Recognition 
 
 ### 2022 papers
 
