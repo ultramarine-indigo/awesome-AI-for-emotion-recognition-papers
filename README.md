@@ -25,6 +25,70 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 #### Conversation-Text
 
+### 2024 papers
+
+#### ICASSP 2024
+
+##### speech
+
+- Emohrnet: High-Resolution Neural Network Based Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446976)
+- Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation [paper](https://arxiv.org/pdf/2402.11747)
+- Investigating Salient Representations and Label Variance in Dimensional Speech Emotion Analysis [paper](https://arxiv.org/html/2312.16180v1)
+- Adaptive Speech Emotion Representation Learning Based On Dynamic Graph [paper](https://ieeexplore.ieee.org/document/10447829)
+- Leveraging Speech PTM, Text LLM, And Emotional TTS For Speech Emotion Recognition [paper](https://arxiv.org/pdf/2309.10294)
+- Enhancing Two-Stage Finetuning for Speech Emotion Recognition Using Adapters [paper](https://ieeexplore.ieee.org/document/10446645)
+- Frame-Level Emotional State Alignment Method for Speech Emotion Recognition [paper](https://arxiv.org/pdf/2312.16383)
+- Gradient-Based Dimensionality Reduction for Speech Emotion Recognition Using Deep Networks [paper](https://ieeexplore.ieee.org/document/10447616)
+- Speech Swin-Transformer: Exploring a Hierarchical Transformer with Shifted Windows for Speech Emotion Recognition [paper](https://arxiv.org/html/2401.10536v1)
+- Disentanglement Network: Disentangle the Emotional Features from Acoustic Features for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10448044)
+- Improving Speaker-Independent Speech Emotion Recognition using Dynamic Joint Distribution Adaptation [paper](https://arxiv.org/html/2401.09752v1)
+- Comparing data-Driven and Handcrafted Features for Dimensional Emotion Recognition [paper](https://publications.idiap.ch/attachments/papers/2024/Vlasenko_ICASSP_2024.pdf)
+- Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition [paper](https://arxiv.org/html/2401.12925v1)
+- Balancing Speaker-Rater Fairness for Gender-Neutral Speech Emotion Recognition [paper](https://www.researchgate.net/profile/Woan-Shiuan-Chien/publication/376799317_Balancing_Speaker-Rater_Fairness_For_Gender-Neutral_Speech_Emotion_Recognition/links/6589283d0bb2c7472b0d10ee/Balancing-Speaker-Rater-Fairness-For-Gender-Neutral-Speech-Emotion-Recognition.pdf)
+- Prompting Audios Using Acoustic Properties for Emotion Representation [paper](https://arxiv.org/pdf/2310.02298)
+- Speech Emotion Recognition with Distilled Prosodic and Linguistic Affect Representations [paper](https://arxiv.org/pdf/2309.04849)
+- Generalization of Self-Supervised Learning-Based Representations for Cross-Domain Speech Emotion Recognition [paper](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Naini_2024.pdf)
+- Dynamic Speech Emotion Recognition Using A Conditional Neural Process [paper](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Martinez-Lucas_2024.pdf)
+- Revealing Emotional Clusters in Speaker Embeddings: A Contrastive Learning Strategy for Speech Emotion Recognition [paper](https://arxiv.org/pdf/2401.11017)
+- Foundation Model Assisted Automatic Speech Emotion Recognition: Transcribing, Annotating, and Augmenting [paper](https://arxiv.org/pdf/2309.08108)
+- MS-SENet: Enhancing Speech Emotion Recognition Through Multi-Scale Feature Fusion with Squeeze-and-Excitation Blocks [paper](https://arxiv.org/html/2312.11974v2)
+- Cubic Knowledge Distillation for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447713)
+- Improving Speech Emotion Recognition with Unsupervised Speaking Style Transfer [paper](https://arxiv.org/pdf/2211.08843)
+- Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition [paper](https://arxiv.org/pdf/2403.19224) 
+- Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446499)
+- Self-Supervised Domain Exploration with an Optimal Transport Regularization for Open Set Cross-Domain Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447482) 
+- Towards Improving Speech Emotion Recognition Using Synthetic Data Augmentation from Emotion Conversion [paper](https://hal.science/hal-04364976/document)
+
+##### conversation
+
+- Esihgnn: Event-State Interactions Infused Heterogeneous Graph Neural Network for Conversational Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447592)
+- MCM-CSD: Multi-Granularity Context Modeling with Contrastive Speaker Detection for Emotion Recognition in Real-Time Conversation [paper](https://ieeexplore.ieee.org/document/10446410)
+- SERC-GCN: Speech Emotion Recognition In Conversation Using Graph Convolutional Networks [paper](https://www.academia.edu/download/110735232/ICASSP_2024_1_.pdf)
+- Conversation Clique-Based Model for Emotion Recognition In Conversation [paper](https://ieeexplore.ieee.org/document/10446226)
+- Speaker-Centric Multimodal Fusion Networks for Emotion Recognition in Conversations [paper](https://ieeexplore.ieee.org/document/10447720)
+
+##### Multimodal Speech（speech+text） 
+
+- Large Language Model-Based Emotional Speech Annotation Using Context and Acoustic Feature for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10448316)
+- MF-AED-AEC: Speech Emotion Recognition by Leveraging Multimodal Fusion, Asr Error Detection, and Asr Error Correction [paper](https://arxiv.org/html/2401.13260v1)
+- GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Accurate Speech Emotion Recognition [paper](https://arxiv.org/html/2306.07848v10) 
+
+##### Multimodal
+
+- Fine-Grained Disentangled Representation Learning For Multimodal Emotion Recognition [paper](https://arxiv.org/html/2312.13567v1)
+- Improving Multi-Modal Emotion Recognition Using Entropy-Based Fusion and Pruning-Based Network Architecture Optimization [paper](https://ieeexplore.ieee.org/document/10447231)
+- Multi-Grained Multimodal Interaction Network for Sentiment Analysis [paper](https://ieeexplore.ieee.org/document/10446351)
+- Fusing Modality-Specific Representations and Decisions for Multimodal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447035)
+- AttA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447640) [code](https://github.com/NariFan2002/AttA-NET)
+- MMRBN: Rule-Based Network for Multimodal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447930) 
+- Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446571)
+- RL-EMO: A Reinforcement Learning Framework for Multimodal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446459)
+- Multi-Modal Emotion Recognition Using Multiple Acoustic Features and Dual Cross-Modal Transformer [paper](https://ieeexplore.ieee.org/document/10447830)
+
+##### others
+
+- AV-SUPERB: A Multi-Task Evaluation Benchmark for Audio-Visual Representation Models [paper](https://arxiv.org/pdf/2309.10787)
+
 ### 2023 papers
 
 #### AAAI 2023
