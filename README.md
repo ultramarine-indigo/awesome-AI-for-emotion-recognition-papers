@@ -1,5 +1,9 @@
 # awesome-AI-for-emotion-recognition-papers
+
 A  list of papers (with available code), tutorials, and surveys on recent AI for emotion recognition (AI4ER)
+
+[TOC]
+
 ### Emotion Recognition Surveys
 
 #### General Emotion Recognition Survey
@@ -11,6 +15,8 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 - Multimodal Emotion Recognition using Deep Learning [paper](https://www.jastt.org/index.php/jasttpath/article/view/91)
 - Emotion recognition using multi-modal data and machine learning techniques: A tutorial and review [paper](https://drive.google.com/file/d/1wGagPpwhGPKpOVpcVmMLIKyU2fUWDYI-/view)
+- Deep learning-based multimodal emotion recognition from audio, visual, and text modalities: A systematic review of recent advancements and future prospects [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423021942)
+- Emotion recognition from unimodal to multimodal analysis: A review 
 
 #### Multimodal Speech
 
@@ -24,6 +30,8 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - A Review on Speech Emotion Recognition Using Deep Learning and Attention Mechanism [paper](https://www.mdpi.com/2079-9292/10/10/1163)
 
 #### Conversation-Text
+
+- 
 
 ### 2024 papers
 
@@ -91,24 +99,13 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 ### 2023 papers
 
-#### AAAI 2023
-
-##### Conversation
-
-- SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26541)
-- BERT-ERC: Fine-Tuning BERT Is Enough for Emotion Recognition in Conversation [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26582)
-
-##### Other
-
-- Feature Normalization and Cartography-Based Demonstrations for Prompt-Based Fine-Tuning on Emotion-Related Tasks [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26514)
-
 #### EMNLP2023
 
 - Learning Language-guided Adaptive Hyper-modality Representation for Multimodal Sentiment Analysis [paper](https://arxiv.org/abs/2310.05804) [code](https://github.com/Haoyu-ha/ALMT)
 
 #### NeurIPS 2023 
 
-- Incomplete Multimodality-Diffused Emotion Recognition [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/372cb7805eaccb2b7eed641271a30eec-Abstract-Conference.html)   [code](https://github.com/mdswyz/IMDer)
+- Incomplete Multimodality-Diffused Emotion Recognition [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/372cb7805eaccb2b7eed641271a30eec-Abstract-Conference.html)  [code](https://github.com/mdswyz/IMDer)
 
 #### interspeech 2023
 
@@ -122,20 +119,20 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - SWRR: Feature Map Classifier Based on Sliding Window Attention and High-Response Feature Reuse for Multimodal Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhao23b_interspeech.html)
 - Focus-attention-enhanced Crossmodal Transformer with Metric Learning for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/kim23c_interspeech.html)
 - Learning Emotional Representations from Imbalanced Speech Data for Speech Emotion Recognition and Emotional Text-to-Speech [paper](https://www.isca-speech.org/archive/interspeech_2023/wang23ka_interspeech.html)
-- MMER: Multimodal Multi-task Learning for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/ghosh23b_interspeech.html)  [code](https://github.com/sreyan88/mmer)
-- A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhang23g_interspeech.html) [code](https://github.com/zxiaohen/Speech-emotion-recognition-MCFN)
+- MMER: Multimodal Multi-task Learning for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/ghosh23b_interspeech.html)
+- A Dual Attention-based Modality-Collaborative Fusion Network for Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhang23g_interspeech.html) [code](https://github.com/zxiaohen/ Speech-emotion-recognition-MCFN)
 - Focus-attention-enhanced Crossmodal Transformer with Metric Learning for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/kim23c_interspeech.html)
 - Speaker-aware Cross-modal Fusion Architecture for Conversational Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhao23e_interspeech.html)
 - Emotion Prompting for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/zhou23f_interspeech.html)
-- EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/sun23d_interspeech.html) 
+- EmotionNAS: Two-stream Neural Architecture Search for Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/sun23d_interspeech.html) *
 - Leveraging Semantic Information for Efficient Self-Supervised Emotion Recognition with Audio-Textual Distilled Models [paper](https://www.isca-speech.org/archive/interspeech_2023/deoliveira23_interspeech.html)
 - Leveraging Label Information for Multimodal Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/wang23ma_interspeech.html)
 - Improving Joint Speech and Emotion Recognition Using Global Style Tokens [paper](https://www.isca-speech.org/archive/interspeech_2023/kyung23_interspeech.html)
-- Dual Memory Fusion for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/prisayad23_interspeech.html) 
+- Dual Memory Fusion for Multimodal Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/prisayad23_interspeech.html) *
 
 ##### Speech
 
-- Multi-Scale Temporal Transformer For Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/li23m_interspeech.html) 
+- Multi-Scale Temporal Transformer For Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/li23m_interspeech.html) *
 - Speech Emotion Recognition by Estimating Emotional Label Sequences with Phoneme Class Attribute [paper](https://www.isca-speech.org/archive/interspeech_2023/nagase23_interspeech.html)
 - Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/jiang23_interspeech.html)
 - Speech Emotion Recognition using Decomposed Speech via Multi-task Learning [paper](https://www.isca-speech.org/archive/interspeech_2023/hsu23_interspeech.html)
@@ -143,7 +140,7 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 ##### Others
 
 - Cross-Lingual Cross-Age Adaptation for Low-Resource Elderly Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/cahyawijaya23_interspeech.html)
-- MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion [paper](https://www.isca-speech.org/archive/interspeech_2023/wu23c_interspeech.html)  [code](https://github.com/crowpeter/MetricAug) 
+- MetricAug: A Distortion Metric-Lead Augmentation Strategy for Training Noise-Robust Speech Emotion [paper](https://www.isca-speech.org/archive/interspeech_2023/wu23c_interspeech.html)  [code](https://github.com/crowpeter/MetricAug) *
 - Integrating Emotion Recognition with Speech Recognition and Speaker Diarisation for Conversations [paper](https://www.isca-speech.org/archive/interspeech_2023/wu23_interspeech.html)
 - Two-stage Finetuning of Wav2vec 2.0 for Speech Emotion Recognition with ASR and Gender Pretraining [paper](https://www.isca-speech.org/archive/interspeech_2023/gao23d_interspeech.html)
 - Diverse Feature Mapping and Fusion via Multitask Learning for Multilingual Speech Emotion Recognition [paper](https://www.isca-speech.org/archive/interspeech_2023/lee23g_interspeech.html)
@@ -151,7 +148,7 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 #### ICASSP 2023
 
-##### Multimodal Speech
+##### Multimodal Speech （speech+text）
 
 - Exploring Complementary Features in Multi-Modal Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10096709)
 - Cross-Modal Fusion Techniques for Utterance-Level Emotion Recognition from Text and Speech [paper](https://arxiv.org/abs/2302.02447)
@@ -226,12 +223,27 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 - Mimicking the Thinking Process for Emotion Recognition in Conversation with Prompts and Paraphrasing [paper](https://arxiv.org/abs/2306.06601)
 
+#### AAAI 2023
+
+##### Conversation
+
+- SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26541)
+- BERT-ERC: Fine-Tuning BERT Is Enough for Emotion Recognition in Conversation [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26582)
+
+##### Other
+
+- Feature Normalization and Cartography-Based Demonstrations for Prompt-Based Fine-Tuning on Emotion-Related Tasks [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26514)
 
 #### ACL 2023
 
 ##### Multimodal
 
-- Layer-wise Fusion with Modality Independence Modeling for Multi-modal Emotion Recognition [paper](https://aclanthology.org/2023.acl-long.39/)
+- Layer-wise Fusion with Modality Independence Modeling for Multi-modal Emotion Recognition [paper](https://aclanthology.org/2023.acl-long.39/) [code](https://github.com/sunjunaimer/LFMIM)
+- ConKI: Contrastive Knowledge Injection for Multimodal Sentiment Analysis [paper](https://aclanthology.org/2023.findings-acl.860/)
+- ConFEDE: Contrastive Feature Decomposition for Multimodal Sentiment Analysis [paper](https://aclanthology.org/2023.acl-long.421/)
+- Topic and Style-aware Transformer for Multimodal Emotion Recognition [paper](https://aclanthology.org/2023.findings-acl.130/)
+- Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition [paper](https://aclanthology.org/2023.findings-acl.390/)
+- QAP: A Quantum-Inspired Adaptive-Priority-Learning Model for Multimodal Emotion Recognition [paper](https://aclanthology.org/2023.findings-acl.772/)
 
 ##### Conversation
 
@@ -245,7 +257,6 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 - Label-Aware Hyperbolic Embeddings for Fine-grained Emotion Classification [paper](https://arxiv.org/abs/2306.14822) [code](https://github.com/dinobby/HypEmo)
 - Estimating the Uncertainty in Emotion Attributes using Deep Evidential Regression [paper](https://arxiv.org/abs/2306.06760)
-
 
 ### 2022 papers
 
