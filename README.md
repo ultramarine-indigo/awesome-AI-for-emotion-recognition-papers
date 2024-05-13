@@ -92,14 +92,15 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 ##### speech
 
+- TRUST-SER: On The Trustworthiness Of Fine-Tuning Pre-Trained Speech Embeddings For Speech Emotion Recognition [paper](https://arxiv.org/pdf/2305.11229) [code](https://github.com/usc-sail/trust-ser)
 - Emohrnet: High-Resolution Neural Network Based Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446976)
 - Parameter Efficient Finetuning for Speech Emotion Recognition and Domain Adaptation [paper](https://arxiv.org/pdf/2402.11747)
 - Investigating Salient Representations and Label Variance in Dimensional Speech Emotion Analysis [paper](https://arxiv.org/html/2312.16180v1)
 - Adaptive Speech Emotion Representation Learning Based On Dynamic Graph [paper](https://ieeexplore.ieee.org/document/10447829)
 - Leveraging Speech PTM, Text LLM, And Emotional TTS For Speech Emotion Recognition [paper](https://arxiv.org/pdf/2309.10294)
 - Enhancing Two-Stage Finetuning for Speech Emotion Recognition Using Adapters [paper](https://ieeexplore.ieee.org/document/10446645)
-- Frame-Level Emotional State Alignment Method for Speech Emotion Recognition [paper](https://arxiv.org/pdf/2312.16383)
-- Gradient-Based Dimensionality Reduction for Speech Emotion Recognition Using Deep Networks [paper](https://ieeexplore.ieee.org/document/10447616)
+- Frame-Level Emotional State Alignment Method for Speech Emotion Recognition [paper](https://arxiv.org/pdf/2312.16383) [code](https://github.com/ASolitaryMan/HFLEA) 
+- Gradient-Based Dimensionality Reduction for Speech Emotion Recognition Using Deep Networks [paper](https://ieeexplore.ieee.org/document/10447616) [code](https://github.com/hxwangnus/Grad-based-Dim-Red-for-SER) 
 - Speech Swin-Transformer: Exploring a Hierarchical Transformer with Shifted Windows for Speech Emotion Recognition [paper](https://arxiv.org/html/2401.10536v1)
 - Disentanglement Network: Disentangle the Emotional Features from Acoustic Features for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10448044)
 - Improving Speaker-Independent Speech Emotion Recognition using Dynamic Joint Distribution Adaptation [paper](https://arxiv.org/html/2401.09752v1)
@@ -113,9 +114,9 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - Revealing Emotional Clusters in Speaker Embeddings: A Contrastive Learning Strategy for Speech Emotion Recognition [paper](https://arxiv.org/pdf/2401.11017)
 - Foundation Model Assisted Automatic Speech Emotion Recognition: Transcribing, Annotating, and Augmenting [paper](https://arxiv.org/pdf/2309.08108)
 - MS-SENet: Enhancing Speech Emotion Recognition Through Multi-Scale Feature Fusion with Squeeze-and-Excitation Blocks [paper](https://arxiv.org/html/2312.11974v2)
-- Cubic Knowledge Distillation for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447713)
+- Cubic Knowledge Distillation for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447713) [code](https://github.com/Fly1toMoon/Cubic-Knowledge-Distillation)
 - Improving Speech Emotion Recognition with Unsupervised Speaking Style Transfer [paper](https://arxiv.org/pdf/2211.08843)
-- Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition [paper](https://arxiv.org/pdf/2403.19224) 
+- Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition [paper](https://arxiv.org/pdf/2403.19224) [code](https://github.com/ECNU-Cross-Innovation-Lab/ENT) 
 - Multi-Source Unsupervised Transfer Components Learning for Cross-Domain Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446499)
 - Self-Supervised Domain Exploration with an Optimal Transport Regularization for Open Set Cross-Domain Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447482) 
 - Towards Improving Speech Emotion Recognition Using Synthetic Data Augmentation from Emotion Conversion [paper](https://hal.science/hal-04364976/document)
@@ -123,7 +124,7 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 ##### conversation
 
 - Esihgnn: Event-State Interactions Infused Heterogeneous Graph Neural Network for Conversational Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447592)
-- MCM-CSD: Multi-Granularity Context Modeling with Contrastive Speaker Detection for Emotion Recognition in Real-Time Conversation [paper](https://ieeexplore.ieee.org/document/10446410)
+- MCM-CSD: Multi-Granularity Context Modeling with Contrastive Speaker Detection for Emotion Recognition in Real-Time Conversation [paper](https://ieeexplore.ieee.org/document/10446410) [code](https://github.com/WHOISJENNY/MCM-CSD)
 - SERC-GCN: Speech Emotion Recognition In Conversation Using Graph Convolutional Networks [paper](https://www.academia.edu/download/110735232/ICASSP_2024_1_.pdf)
 - Conversation Clique-Based Model for Emotion Recognition In Conversation [paper](https://ieeexplore.ieee.org/document/10446226)
 - Speaker-Centric Multimodal Fusion Networks for Emotion Recognition in Conversations [paper](https://ieeexplore.ieee.org/document/10447720)
@@ -143,7 +144,7 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 - AttA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447640) [code](https://github.com/NariFan2002/AttA-NET)
 - MMRBN: Rule-Based Network for Multimodal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10447930) 
 - Inter-Modality and Intra-Sample Alignment for Multi-Modal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446571)
-- RL-EMO: A Reinforcement Learning Framework for Multimodal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446459)
+- RL-EMO: A Reinforcement Learning Framework for Multimodal Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10446459) [code](https://github.com/zyh9929/RL-EMO) 
 - Multi-Modal Emotion Recognition Using Multiple Acoustic Features and Dual Cross-Modal Transformer [paper](https://ieeexplore.ieee.org/document/10447830)
 
 ##### others
@@ -258,17 +259,12 @@ A  list of papers (with available code), tutorials, and surveys on recent AI for
 
 ##### Other
 
-- Elastic Graph Transformer Networks for EEG-Based Emotion Recognition [paper](https://bcmi.sjtu.edu.cn/home/blu/papers/2023/2023-1.pdf)
-- EEG Emotion Recognition Via Ensemble Learning Representations [paper](https://ieeexplore.ieee.org/document/10094939)
-- A Spatial-Temporal ECG Emotion Recognition Model Based on Dynamic Feature Fusion [paper](https://ieeexplore.ieee.org/document/10096299)
 - Ensemble Knowledge Distillation of Self-Supervised Speech Models [paper](https://arxiv.org/abs/2302.12757)
 - Domain Adaptation without Catastrophic Forgetting on a Small-Scale Partially-Labeled Corpus for Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10096578)
 - Shuffleaugment: A Data Augmentation Method Using Time Shuffling [paper](https://ieeexplore.ieee.org/document/10096927)
 - Achieving Fair Speech Emotion Recognition via Perceptual Fairness [paper](https://www.researchgate.net/profile/Woan-Shiuan-Chien/publication/368719577_Achieving_Fair_Speech_Emotion_Recognition_via_Perceptual_Fairness/links/6455dcef97449a0e1a7dd51d/Achieving-Fair-Speech-Emotion-Recognition-via-Perceptual-Fairness.pdf)
 - Unsupervised Domain Adaptation for Preference Learning Based Speech Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10094301) 
-- Using Emotion Embeddings to Transfer Knowledge between Emotions, Languages, and Annotation Formats [paper](https://arxiv.org/abs/2211.00171) [code](https://github.com/gchochla/Demux-MEmo)
-- Two-Phase Prototypical Contrastive Domain Generalization for Cross-Subject EEG-Based Emotion Recognition [paper](https://ieeexplore.ieee.org/document/10096469)
-- Improving EEG-based Emotion Recognition by Fusing Time-Frequency and Spatial Representations [paper](https://ieeexplore.ieee.org/document/10097171)
+- Using Emotion Embeddings to Transfer Knowledge between Emotions, Languages, and Annotation Formats [paper](https://arxiv.org/abs/2211.00171) [code](https://github.com/gchochla/Demux-MEmo) 
 - QI-TTS: Questioning Intonation Control for Emotional Speech Synthesis [paper](https://ieeexplore.ieee.org/document/10095623)
 - A Hierarchical Regression Chain Framework for Affective Vocal Burst Recognition [paper](https://arxiv.org/abs/2303.08027)
 
